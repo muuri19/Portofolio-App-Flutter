@@ -1,0 +1,83 @@
+name: muuri_project
+description: "A new Flutter project."
+publish_to: 'none' 
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  google_fonts: ^6.2.1
+  flutter_form_builder: ^9.3.0
+  form_builder_validators: ^11.0.0
+  intl: ^0.19.0
+  loading_animation_widget: ^1.2.1
+  timelines: ^0.1.0
+  url_launcher: ^6.3.0
+  data_table_2: ^2.5.15
+  supabase_flutter: ^2.5.11
+  logger: ^2.4.0
+  cached_network_image: ^3.4.0
+  http: ^1.2.2
+  fl_chart: ^0.68.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter: 
+  uses-material-design: true
+  assets:
+    - assets/bg-home.jpg
+    - assets/saweria.png
+    - assets/question.png
+    - assets/saweria_qr.png
+    - assets/checkbox.png
+    - assets/feedback.png
+    - assets/banner.jpg
+    - assets/profile.jpg
+    - assets/bg-profile.jpg
+    - assets/bg-ide.jpg
+
+    - assets/images/1.png
+    - assets/images/2.png
+    - assets/images/3.png
+    - assets/images/4.png
+    - assets/images/5.png
+    - assets/images/6.png
+    - assets/images/7.png
+    - assets/images/8.png
+  
+  
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
